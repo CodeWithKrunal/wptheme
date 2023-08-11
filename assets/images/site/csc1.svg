@@ -1,0 +1,18 @@
+<svg id="Component_4_1" data-name="Component 4 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="131" viewBox="0 0 131 131">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="55.544" height="53.962" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_2" data-name="Ellipse 2" fill="#3d3d3d" stroke="#f6f6f6" stroke-width="5">
+    <circle cx="65.5" cy="65.5" r="65.5" stroke="none"/>
+    <circle cx="65.5" cy="65.5" r="63" fill="none"/>
+  </g>
+  <g id="Group_51" data-name="Group 51" transform="translate(38 39)">
+    <g id="Group_50" data-name="Group 50" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_21" data-name="Path 21" d="M7.4,11.226h4.088A1.119,1.119,0,0,0,12.6,10.109V1.117A1.118,1.118,0,0,0,11.486,0H7.4A1.119,1.119,0,0,0,6.281,1.117v8.993A1.12,1.12,0,0,0,7.4,11.226" transform="translate(3.929 0)" fill="#fff"/>
+      <path id="Path_22" data-name="Path 22" d="M25.117,11.226H29.2a1.117,1.117,0,0,0,1.118-1.117V1.117A1.116,1.116,0,0,0,29.2,0H25.117A1.117,1.117,0,0,0,24,1.117v8.993a1.118,1.118,0,0,0,1.117,1.117" transform="translate(15.013 0)" fill="#fff"/>
+      <path id="Path_23" data-name="Path 23" d="M49.038,2.644H47.6V8.457a3.383,3.383,0,0,1-3.381,3.376H40.13a3.383,3.383,0,0,1-3.38-3.376V2.644H18.8V8.457a3.385,3.385,0,0,1-3.381,3.376H11.327a3.383,3.383,0,0,1-3.38-3.376V2.644H6.5A6.506,6.506,0,0,0,0,9.148V45.8a6.509,6.509,0,0,0,6.5,6.509H49.038A6.508,6.508,0,0,0,55.544,45.8V9.148a6.5,6.5,0,0,0-6.505-6.5M51.431,45.8a2.4,2.4,0,0,1-2.393,2.393H6.5A2.391,2.391,0,0,1,4.114,45.8V21.218H51.431Z" transform="translate(0 1.654)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

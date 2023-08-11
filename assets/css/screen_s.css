@@ -1,0 +1,53 @@
+.mb-0{margin-bottom:0 !important;}
+
+.blue-btn{background-color:#2063ed;color:#fff;}
+
+.blue-btn:hover{background-color:#fff;color:#2063ed;}
+
+.small-btn{font-size:20px;padding:6px 30px;line-height:normal;}
+
+.topTitle{margin-bottom:75px;}
+
+.topTitle h2{position:relative;padding-bottom:16px;margin-bottom:22px;}
+
+.topTitle h2::after{content:'';position:absolute;left:0;right:0;margin:0 auto;bottom:0;width:20px;height:6px;background-color:#2063ed;}
+
+.topTitle.text-right h2::after{margin-right:0;}
+
+.topTitle p{font-size:25px;font-weight:600;color:#3D3D3D;line-height:1.20;}
+
+.our-courses-section .courses-row>[class*="col-"]{margin-bottom:60px;}
+
+.our-courses-section .courses-row .btns{margin-top: 25px;}
+
+@media only screen and (max-width:1279px){
+    body .login_page,body.woocommerce-account .container .woocommerce{padding: 0;}
+    .woocommerce-account .woocommerce-MyAccount-navigation{padding: 0 50px;}
+    .woocommerce-account .woocommerce-MyAccount-navigation { padding: 0 20px 50px; }
+    .woocommerce-account .container .woocommerce{height: auto;}
+    .woocommerce-account .container .woocommerce-MyAccount-content{padding: 30px 20px;}
+    .woocommerce-account .woocommerce-MyAccount-navigation .dashboard_title{padding: 25px 0;}
+    .woocommerce-account .woocommerce-MyAccount-navigation ul li{padding-right: 22px;}
+    .woocommerce-account .woocommerce-MyAccount-navigation ul li::after{    width: 18px; height: 18px; right: 2px; top: calc(50% - 9px);}
+    .woocommerce-account .woocommerce-MyAccount-navigation ul li a{padding: 5px;font-size: 18px;}
+    .woocommerce-account .container .woocommerce-MyAccount-content p, .woocommerce-account .container .woocommerce-MyAccount-content p a{    font-size: 18px; line-height: 1}
+}
+@media only screen and (max-width:1023px){
+    body.woocommerce-account .container .woocommerce{padding: 0;}
+    body .mo-openid-app-icons .mo_btn{max-width: 100%;}
+    
+}
+@media only screen and (max-width:992px){
+    .woocommerce-account .woocommerce-MyAccount-navigation,.woocommerce-account .container .woocommerce-MyAccount-content{width: 100%;}
+}
+@media only screen and (max-width:767px){
+    .dashboard_title h2{padding: 0;font-size: 25px;}
+    .dashboard_title h3{font-size: 17px;}
+    .woocommerce-account .woocommerce-MyAccount-navigation{padding: 0 10px;}
+    
+    .woocommerce-account .woocommerce-MyAccount-navigation .dashboard_title { padding: 18px 0 20px; }
+    .woocommerce-account .woocommerce-MyAccount-navigation{padding-bottom: 10px;}
+    .woocommerce-account .container .woocommerce-MyAccount-content { padding: 10px; }
+    .woocommerce-account .container .woocommerce-MyAccount-content p, .woocommerce-account .container .woocommerce-MyAccount-content p a{font-size: 14px;}
+    .woocommerce-account .woocommerce-MyAccount-navigation ul li a{line-height: 30px;}
+}
